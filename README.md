@@ -30,8 +30,8 @@ A **Python** desktop application built with **Flet** and **ReportLab** that allo
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/invoice-generator-app.git
-cd invoice-generator-app
+https://github.com/marvinzuniga19/invoice_Builder.git
+cd invoice_Builder
 ```
 
 ### Install dependencies

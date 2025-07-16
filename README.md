@@ -61,19 +61,6 @@ Follow the on-screen instructions to fill in the invoice details and save the PD
 
 ---
 
-## 📂 Project Structure
-
-```
-invoice-generator-app/
-│
-├── main.py                # Main application file
-├── utils/
-│   └── pdf_generator.py   # PDF generation logic using ReportLab
-├── assets/                # (Optional) Images or logos for invoices
-└── requirements.txt       # Project dependencies
-```
-
----
 
 ## 📄 License
 
@@ -83,8 +70,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🙌 Author
 
-Developed by [Your Name](https://github.com/yourusername) 💻
+Developed by [MarvinZ](https://github.com/marvinzuniga19) 💻
 
 ---
-
-¿Quieres que ahora te cree el archivo `requirements.txt` o el código inicial?

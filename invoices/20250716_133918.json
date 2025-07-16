@@ -1,0 +1,12 @@
+{
+    "Client": "Dr Frankestein",
+    "date": "2025-07-16T13:39:18.508527",
+    "items": [
+        {
+            "description": "Buy a table",
+            "quantity": 1,
+            "price": 250.0
+        }
+    ],
+    "total": 250.0
+}
